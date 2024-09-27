@@ -1,5 +1,6 @@
-# __CV Bastien GUILLARD__                           
-#####  Né le 02/05/2001 (*23 ans*) Royan | 06 28 28 78 09
+# __CV Bastien GUILLARD__ 
+## Contact
+#####  *23 ans* Royan | 06 28 28 78 09
 ##### bastien.guillard17@outlook.fr
 
 ## *__Formation__*
